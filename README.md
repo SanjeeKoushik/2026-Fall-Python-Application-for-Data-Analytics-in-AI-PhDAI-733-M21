@@ -40,6 +40,7 @@ Logistic Regression performed best on the test set and is preferred for transpar
 ## Files
 
 - `heart_disease_analysis.py` - EDA, preprocessing, Logistic Regression and Random Forest, tuning, confusion matrices, and feature importance
+- `heart.csv` - UCI Heart Disease (Cleveland) dataset, 303 records, the file the script reads
 - `Residency_Project_Day1.docx` - Day 1 report
 - `Residency_Project_Day_1_Team_Kickoff.pptx` - Team kickoff slides
 
